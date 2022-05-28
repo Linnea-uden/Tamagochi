@@ -1,0 +1,15 @@
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\bin\Debug\Tamagochi_FromsV2.exe.config
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\bin\Debug\Tamagochi_FromsV2.exe
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\bin\Debug\Tamagochi_FromsV2.pdb
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.csproj.AssemblyReference.cache
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.Properties.Resources.resources
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.csproj.GenerateResource.cache
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.csproj.CoreCompileInputs.cache
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.exe
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.pdb
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.CreateNew.resources
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.Menu.resources
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.Main.resources
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.SparadKaraktärForm.resources
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.Fight.resources
+C:\Users\Linnea\source\repos\9.Klasser_Objekt\Tamagochi_FromsV2\obj\Debug\Tamagochi_FromsV2.TutorialForm.resources
